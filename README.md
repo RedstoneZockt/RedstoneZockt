@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/RedstoneZockt/RedstoneZockt/">
+   <img src="https://github-readme-stats.vercel.app/api?username=RedstoneZockt&hide=prs&hide_border=true&count_private=true&theme=blueberry&show_icons=true">
+<br>
+<a href="https://github.com/RedstoneZockt/RedstoneZockt/">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedstoneZockt&theme=blueberry&hide_border=true&count_private=true&">
+   
